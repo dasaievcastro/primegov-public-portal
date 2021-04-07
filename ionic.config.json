@@ -1,0 +1,8 @@
+{
+  "name": "Primegov - Public Portal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "18832690"
+}
